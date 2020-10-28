@@ -33,8 +33,8 @@ facebook :
 
 google :
   client :
-    clientId :
-    clientSecret:
+    clientId : 568011718670-9d9khu1ciftbeb3lo7rnf0efrkn4mm1n.apps.googleusercontent.com
+    clientSecret: yS3oUe6jqw14OVETNW63ov9k
     accessTokenUri: https://accounts.google.com/o/oauth2/token
     userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
     scope: email, profile
@@ -43,7 +43,7 @@ google :
 
 kakao :
   client :
-    clientId :
+    clientId : 52b0fb28ee6802e4378687ffe9a84439
     accessTokenUri: https://kauth.kakao.com/oauth/token
     userAuthorizationUri: https://kauth.kakao.com/oauth/authorize
   resource:
